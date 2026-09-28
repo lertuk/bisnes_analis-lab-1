@@ -1,0 +1,51 @@
+Назва: Books | URL: https://books.toscrape.com/catalogue/category/books_1/index.html
+Назва: Travel | URL: https://books.toscrape.com/catalogue/category/books/travel_2/index.html
+Назва: Mystery | URL: https://books.toscrape.com/catalogue/category/books/mystery_3/index.html
+Назва: Historical Fiction | URL: https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html
+Назва: Sequential Art | URL: https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html
+Назва: Classics | URL: https://books.toscrape.com/catalogue/category/books/classics_6/index.html
+Назва: Philosophy | URL: https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html
+Назва: Romance | URL: https://books.toscrape.com/catalogue/category/books/romance_8/index.html
+Назва: Womens Fiction | URL: https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html
+Назва: Fiction | URL: https://books.toscrape.com/catalogue/category/books/fiction_10/index.html
+Назва: Childrens | URL: https://books.toscrape.com/catalogue/category/books/childrens_11/index.html
+Назва: Religion | URL: https://books.toscrape.com/catalogue/category/books/religion_12/index.html
+Назва: Nonfiction | URL: https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html
+Назва: Music | URL: https://books.toscrape.com/catalogue/category/books/music_14/index.html
+Назва: Default | URL: https://books.toscrape.com/catalogue/category/books/default_15/index.html
+Назва: Science Fiction | URL: https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html
+Назва: Sports and Games | URL: https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html
+Назва: Add a comment | URL: https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html
+Назва: Fantasy | URL: https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html
+Назва: New Adult | URL: https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html
+Назва: Young Adult | URL: https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html
+Назва: Science | URL: https://books.toscrape.com/catalogue/category/books/science_22/index.html
+Назва: Poetry | URL: https://books.toscrape.com/catalogue/category/books/poetry_23/index.html
+Назва: Paranormal | URL: https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html
+Назва: Art | URL: https://books.toscrape.com/catalogue/category/books/art_25/index.html
+Назва: Psychology | URL: https://books.toscrape.com/catalogue/category/books/psychology_26/index.html
+Назва: Autobiography | URL: https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html
+Назва: Parenting | URL: https://books.toscrape.com/catalogue/category/books/parenting_28/index.html
+Назва: Adult Fiction | URL: https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html
+Назва: Humor | URL: https://books.toscrape.com/catalogue/category/books/humor_30/index.html
+Назва: Horror | URL: https://books.toscrape.com/catalogue/category/books/horror_31/index.html
+Назва: History | URL: https://books.toscrape.com/catalogue/category/books/history_32/index.html
+Назва: Food and Drink | URL: https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html
+Назва: Christian Fiction | URL: https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html
+Назва: Business | URL: https://books.toscrape.com/catalogue/category/books/business_35/index.html
+Назва: Biography | URL: https://books.toscrape.com/catalogue/category/books/biography_36/index.html
+Назва: Thriller | URL: https://books.toscrape.com/catalogue/category/books/thriller_37/index.html
+Назва: Contemporary | URL: https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html
+Назва: Spirituality | URL: https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html
+Назва: Academic | URL: https://books.toscrape.com/catalogue/category/books/academic_40/index.html
+Назва: Self Help | URL: https://books.toscrape.com/catalogue/category/books/self-help_41/index.html
+Назва: Historical | URL: https://books.toscrape.com/catalogue/category/books/historical_42/index.html
+Назва: Christian | URL: https://books.toscrape.com/catalogue/category/books/christian_43/index.html
+Назва: Suspense | URL: https://books.toscrape.com/catalogue/category/books/suspense_44/index.html
+Назва: Short Stories | URL: https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html
+Назва: Novels | URL: https://books.toscrape.com/catalogue/category/books/novels_46/index.html
+Назва: Health | URL: https://books.toscrape.com/catalogue/category/books/health_47/index.html
+Назва: Politics | URL: https://books.toscrape.com/catalogue/category/books/politics_48/index.html
+Назва: Cultural | URL: https://books.toscrape.com/catalogue/category/books/cultural_49/index.html
+Назва: Erotica | URL: https://books.toscrape.com/catalogue/category/books/erotica_50/index.html
+Назва: Crime | URL: https://books.toscrape.com/catalogue/category/books/crime_51/index.html
